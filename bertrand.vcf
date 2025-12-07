@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+N:BECARD;Bertrand;;;
+FN:Bertrand BECARD
+TEL;TYPE=CELL:+33652394119
+EMAIL;TYPE=WORK:bertrand.becard@amhappy.fr
+END:VCARD
